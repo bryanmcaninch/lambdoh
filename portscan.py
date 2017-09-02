@@ -1,5 +1,4 @@
-import os
-import socket
+import os, socket
 
 DSTIP="169.254.79.2"
 DSTPORT="2000"
